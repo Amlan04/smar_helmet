@@ -1,0 +1,23 @@
+Digital_00_"RXD"
+Digital_01_"TXD"
+Digital_02_(ENGAED_IN)==>Switch(for false alarm)
+Digital_03_(ENGAED_IN)==>IR sensor
+Digital_04_(ENGAED_IN)==>IR sensor
+Digital_05_(ENGAED_IN)==>MQ3_digitalPin
+Digital_06_
+Digital_07_
+Digital_08_(ENGAED_IN)==>
+Digital_09_(ENGAED_IN)==>
+Digital_10_
+Digital_11_"MOSI"
+Digital_12_"MISO"
+Digital_13_"SCK"
+Digital_14_A0_(ENGAED)==>MQ3_analogPin
+Digital_15_A1
+Digital_16_A2
+Digital_17_A3
+Digital_18_A4_"SDA"(ENGAED)
+Digital_19_A5_"SCL"(ENGAED)
+Digital_20_A6
+Digital_21_A7
+
